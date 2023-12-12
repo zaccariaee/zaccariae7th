@@ -1,0 +1,49 @@
+body{ margin: 4cm;
+
+}
+a{
+    display: block;
+}
+header{
+    background-color: rgb(172, 202, 241);
+    border-bottom:11px solid rgb(50, 48, 48);
+}
+.container{
+    display: flex;
+}
+img{
+    margin: 1cm;
+    width: 3cm;
+    height: 3cm;
+    border: 2px solid blue;
+    border-radius: 100%;
+}
+h3{
+        text-transform: uppercase;
+        border-bottom: 1px solid black;
+    }
+.side{
+    display: flex;
+}
+.container2{
+    background-color: gainsboro;
+    width: 20%;
+    padding: 1cm;
+}
+.profil{
+    background-color:orange;
+   padding: 1cm;
+    width: 80%;
+}
+h1{
+    color: white;
+    padding-top: 18%;
+}
+
+p1{
+    padding-left: 2cm;
+    color: white;
+}
+.P{
+    display: block;
+}
